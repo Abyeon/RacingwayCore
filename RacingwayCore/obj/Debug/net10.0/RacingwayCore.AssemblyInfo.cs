@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RacingwayCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38a487ead402f9f7413071ddae622c1ed088db4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RacingwayCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RacingwayCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

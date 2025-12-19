@@ -6,4 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="LiteDB" Version="6.0.0-prerelease.73" />
+      <PackageReference Include="MessagePack" Version="3.1.4" />
+    </ItemGroup>
+
 </Project>
